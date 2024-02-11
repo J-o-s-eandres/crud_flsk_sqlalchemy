@@ -1,5 +1,3 @@
-Por supuesto, aquí tienes un ejemplo de cómo podrías estructurar un archivo `readme.md` para documentar un CRUD de contactos en Flask:
-
 ```markdown
 # CRUD de Contactos
 
@@ -19,7 +17,7 @@ El objetivo de este proyecto es proporcionar una aplicación web simple para ges
 1. Clona este repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu-usuario/crud-de-contactos.git
+https://github.com/J-o-s-eandres/crud_flsk_sqlalchemy
 ```
 
 2. Instala las dependencias necesarias usando pip:
